@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-top: 250px;
+    margin-left: 600px;
+    
+}
+
+h1{
+    color: rgb(115, 199, 115);
+    margin: 25px;
+}
+
+p{
+    text-align: center;
+    margin-bottom: -17px;
+}
+
+#f1{
+
+    padding-left: 4px;
+    padding-right: 132px;
+    margin-bottom: 9px;
+    height: 36px;
+    
+}
+
+button{
+    width: 302px;
+    height: 33px;
+    color: whitesmoke;
+    background-color: rgb(101, 143, 101);
+}
+
+h2{
+    color: rgb(99, 137, 99);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 7px;
+}
+
+#s1{
+    color: gray;
+    font-family: 'Inter', sans-serif;
+    margin-right: 47px;
+    /* padding: 3px; */
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
